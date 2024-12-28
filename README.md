@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhankarraj40/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/shubhankarraj40/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhankarraj40/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shubhankarraj40/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Hash Table
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shubhankarraj40/LeetCode/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhankarraj40/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
