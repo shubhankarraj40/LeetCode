@@ -16,10 +16,10 @@ public:
         ListNode* next = NULL;
         
         while (curr != NULL) {
-            next = curr->next; // save next
-            curr->next = prev;               // reverse pointer
-            prev = curr;                     // move prev
-            curr = next;                 // move curr
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;            // move curr
         }
         
         return prev; // new head
