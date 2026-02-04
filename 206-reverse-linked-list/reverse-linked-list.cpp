@@ -13,13 +13,13 @@ public:
     ListNode* reverseList(ListNode* head) {
         ListNode* prev = NULL;
         ListNode* curr = head;
-        ListNode* nextNode = NULL;
+        ListNode* next = NULL;
         
         while (curr != NULL) {
-            nextNode = curr->next; // save next
+            next = curr->next; // save next
             curr->next = prev;               // reverse pointer
             prev = curr;                     // move prev
-            curr = nextNode;                 // move curr
+            curr = next;                 // move curr
         }
         
         return prev; // new head
